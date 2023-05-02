@@ -1,8 +1,3 @@
---
---  LEAKED BY S3NTEX -- 
---  https://discord.gg/aUDWCvM -- 
---  fivemleak.com -- 
---  fkn crew -- 
 ESX = nil
 
 TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
